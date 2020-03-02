@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace evenodd
 {
-    public partial class Form1 : Form
+    public partial class evenodd : Form
     {
-        public Form1()
+        public evenodd()
         {
             InitializeComponent();
         }
